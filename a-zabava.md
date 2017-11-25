@@ -1,4 +1,5 @@
 ---
 layout: default 
-title: a-Zabava
+title: Zabava
+permalink: zabava.html
 ---
