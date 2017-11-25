@@ -6,7 +6,7 @@ permalink: /markdown/
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](another-page).
+[Link to another page](https://sciencehackday.si).
 
 There should be whitespace between paragraphs.
 
@@ -22,7 +22,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### [](#header-3)Header 3
+#### [](#header-3)Header 3
 
 ```js
 // Javascript code with syntax highlighting.
